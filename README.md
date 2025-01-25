@@ -1,4 +1,4 @@
-# Purrsistence 🐾
+# Purrsistence 
 
 Purrsistence is a quirky and fun habit-tracking app designed to help you achieve your goals with the support of AI, delightful spinning cats, and your friends. Whether you're tackling short-term or long-term goals, Purrsistence keeps you motivated with playful nudges and integrations that bring out your best.
 
@@ -11,7 +11,7 @@ Purrsistence leverages the power of Gumloop to enhance user experience with:
 3. **Friend Notifications**:
    - Automatically sends text messages, complete with cat memes or generated explanations, to keep you accountable in a fun way.
 
-## 🚀 How to Get Started
+## How to Get Started
 
 1. Clone this repository:
    ```bash
